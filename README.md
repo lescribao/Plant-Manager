@@ -17,5 +17,7 @@ In their profile they will be able to see all of their owned plants, and mouse-o
 
 As well as see which plants they should water today, or if it's a plant-iversary. Both of those will also be displayed through notifications to remind the users to care for their plants.
 
+All of which will be stored and managed in the database, which plants they own, watering cycles, date of "adoption" of the plant, and other user-specific details.
+
 <h2> (optional) Plant Calendar </h2>
 A calendar of the month showing special days, highlighting in different colors the day to water plants, give them fertilizer, etc.
