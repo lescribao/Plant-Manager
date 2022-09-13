@@ -21,3 +21,6 @@ All of which will be stored and managed in the database, which plants they own, 
 
 <h2> (optional) Plant Calendar </h2>
 A calendar of the month showing special days, highlighting in different colors the day to water plants, give them fertilizer, etc.
+
+<h2> (optional) Plant Identification </h2>
+Through the (https://web.plant.id/) API I would like to experiment with it, integrate it into my service, and offer users the option to upload images of their plants to detect which plant it is, and if found, have the option to add it to their profile.
